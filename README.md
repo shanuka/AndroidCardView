@@ -3,4 +3,4 @@ AndroidCardView
 
 AndroidCardView Eclipse Lib
 
-![screen](https://github.com/shanuka/AndroidCardView/blob/master/ScreenM.png)
+![screen](https://raw.githubusercontent.com/shanuka/AndroidCardView/master/Screen.png)
