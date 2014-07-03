@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- inherit from the material theme -->
+  <style name="AppTheme" parent="android:ThemeOverlay.Material.Dark">
+    </style>
+
+</resources>
